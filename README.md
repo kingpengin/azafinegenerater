@@ -1,1 +1,2 @@
 # azafinegenerater.github.io
+アザファインジェネレーター
